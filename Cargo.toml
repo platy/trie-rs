@@ -1,0 +1,11 @@
+[package]
+name = "trie"
+version = "0.1.0"
+authors = ["Mike Bush"]
+
+[dependencies]
+
+[lib]
+name = "trie"
+path = "trie.rs"
+
